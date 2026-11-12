@@ -1,0 +1,22 @@
+{
+    "resumen": {
+        "total_verificados": 100,
+        "borrados_por_errores": 13,
+        "total_limpios": 87
+    },
+    "integridad": {
+        "archivos_bien": 2,
+        "archivos_mal": 1,
+        "porcentaje_integridad": 66.67
+    },
+    "estadisticas_precios": {
+        "media": 70.99,
+        "mediana": 73.44,
+        "maximo": 124.47,
+        "minimo": 12.5
+    },
+    "limites_iqr": {
+        "tope_inferior": -0.18,
+        "tope_superior": 141.12
+    }
+}

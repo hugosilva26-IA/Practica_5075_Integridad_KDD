@@ -1,0 +1,9 @@
+2026-11-12 20:33:28,990 | INFO | OK: transacciones_tienda_norte.csv
+2026-11-12 20:33:28,990 | ERROR | FALLO HASH: transacciones_tienda_sur.csv
+2026-11-12 20:33:28,990 | INFO | OK: transacciones_tienda_este.csv
+2026-11-12 20:33:28,990 | INFO | Fin Fase 1. Aprobados: 2, Rechazados: 1
+2026-11-12 20:33:37,106 | INFO | Cargado transacciones_tienda_norte.csv con 50 filas
+2026-11-12 20:33:37,106 | WARNING | Ignorado transacciones_tienda_sur.csv por fallo de hash
+2026-11-12 20:33:37,107 | INFO | Cargado transacciones_tienda_este.csv con 50 filas
+2026-11-12 20:33:37,111 | WARNING | Filas eliminadas por limpieza: 13
+2026-11-12 20:33:37,117 | INFO | Proceso completado. Quedan 87 filas validas.
